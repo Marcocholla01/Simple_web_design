@@ -1,0 +1,18 @@
+*{
+background-color: #b7e9b7;
+padding: auto;
+margin: 5px;
+}
+.sign-up-with{
+    background-color: rgb(167, 127, 79);
+    border-radius: 10px;
+}
+.login-form{
+    color: rgb(87, 13, 13);
+    text-align: center;
+    text-decoration: none;
+}
+a.login-form{
+    font-size: 7px;
+    font-family: monospace;
+}
